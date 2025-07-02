@@ -16,35 +16,7 @@ export default function WhatWeDo() {
     tech: "MERN Stack",
     github: "https://github.com/pankaj1132/sitemap_frontend",
     demo: "https://sitemap-frontend-ruby.vercel.app/"
-  },
-   {
-    name: "Event Management System",
-    description: "A robust event management platform for seamless organization, scheduling, and coordination of events with real-time updates and user-friendly interfaces.",
-    tech: "Next.js, Prisma, TypeScript",
-    github: "https://github.com/ssubrt/Event_Management_Tool",
-    demo: "https://event-management-tool.vercel.app/"
-  },
-    {
-    name: "Analytics Dashboard",
-    description: "A comprehensive data analytics and news platform providing actionable insights through interactive visualizations and real-time updates.",
-    tech: "Next.js, Prisma, MERN Stack, TypeScript",
-    github: "https://github.com/pankaj1132/Pgagi_work",
-    demo: "https://pgagi-assesment.vercel.app/dashboard"
-  },
-    {
-    name: "Blog Website",
-    description: "A dynamic blog platform enabling users to create, manage, and share content seamlessly with a modern interface and robust backend.",
-    tech: "Django, REST API, React",
-    github: "https://github.com/Harshiitttt27/blog-website-django",
-    demo: "https://blog-website-django-3.onrender.com/"
-  },
-    {
-      name: "Portfolio + Blog Site",
-      description: "Personal portfolio site with integrated blog and CMS admin panel.",
-      tech: "React, Sanity.io, Tailwind CSS",
-      github: "https://github.com/your-username/portfolio-blog",
-      demo: "https://portfolio-quadbyte.vercel.app",
-    },
+  }
   ];
 
   return (
