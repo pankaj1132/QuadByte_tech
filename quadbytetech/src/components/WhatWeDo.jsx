@@ -16,6 +16,14 @@ export default function WhatWeDo() {
     tech: "MERN Stack",
     github: "https://github.com/pankaj1132/sitemap_frontend",
     demo: "https://sitemap-frontend-ruby.vercel.app/"
+  },
+  
+    {
+    name: "Analytics Dashboard",
+    description: "A comprehensive data analytics and news platform providing actionable insights through interactive visualizations and real-time updates.",
+    tech: "Next.js, Prisma, MERN Stack, TypeScript",
+    github: "https://github.com/pankaj1132/Pgagi_work",
+    demo: "https://pgagi-assesment.vercel.app/dashboard"
   }
   ];
 
