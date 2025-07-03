@@ -10,13 +10,13 @@ export default function WhatWeDo() {
     github: "https://github.com/pankaj1132/Propal_ai",
     demo: "https://propal-ai-two.vercel.app/"
   },
-    {
-    name: "Ecommerce Sustain Market",
-    description: "A sustainable e-commerce platform featuring Paytm payment gateway integration and add-to-cart functionality.",
-    tech: "MERN Stack",
-    github: "https://github.com/pankaj1132/sitemap_frontend",
-    demo: "https://sitemap-frontend-ruby.vercel.app/"
-  },
+  //   {
+  //   name: "Ecommerce Sustain Market",
+  //   description: "A sustainable e-commerce platform featuring Paytm payment gateway integration and add-to-cart functionality.",
+  //   tech: "MERN Stack",
+  //   github: "https://github.com/pankaj1132/sitemap_frontend",
+  //   demo: "https://sitemap-frontend-ruby.vercel.app/"
+  // },
    {
     name: "Event Management System",
     description: "A robust event management platform for seamless organization, scheduling, and coordination of events with real-time updates and user-friendly interfaces.",
